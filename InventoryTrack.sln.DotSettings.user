@@ -1,6 +1,15 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionAsserts_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003F9d4b58d4f19922362e61be6b764873c3d446ca20cf99191c90bc38eeda9a36_003FExceptionAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef18e0f2_002Dab22_002D41cd_002D8ae8_002D51c93effffd2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BaseEntityConstructor_CreatesNewInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Common.BaseEntityConstructor&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.CategoryConstructors.Given_IdAndName_When_CreateInstance_Then_InstanceShouldBeCreated&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.CategoryConstructors.Given_Name_When_CreateInstance_Then_InstanceShouldBeCreatedWithNewId&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.CategoryConstructors&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.ProductImageConstructors.Given_ValidProperties_When_CreateInstance_Then_InstanceShouldBeCreated&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.ProductImageConstructors.Given_ValidProperties_When_CreateInstanceWithId_Then_InstanceShouldBeCreated&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.ProductImageConstructors.Given_InvalidName_When_CreateInstance_Then_ShouldThrowArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.ProductImageConstructors.Given_InvalidExtension_When_CreateInstance_Then_ShouldThrowArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F34B759-FDB3-4FFA-993D-3E0645C994DE::net8.0::InventoryTrack.Domain.UnitTests.Entities.ProductImageConstructors.Given_InvalidCreatedAt_When_CreateInstance_Then_ShouldThrowArgumentException&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
